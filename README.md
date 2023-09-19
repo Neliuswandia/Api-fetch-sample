@@ -3,6 +3,7 @@ This is an exapmle of making a HTTP request
 
 # Requiremants
 Python
+Use pip install to install the required packages
 
 # Getting Started
 clone this repository to your local machine
